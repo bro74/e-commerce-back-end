@@ -1,7 +1,7 @@
 # e-commerce-back-end
 
 ## Description
-This is a code built from a starter code to create the back end for e-commerce (internet retail) sites. Thlogo maker to generate a simple VSG logo built from scratch. The user is a manager at an internet retail company who wants a back end for my e-commerce website that uses the latest technologies, so their company can compete with other e-commerce companies. 
+This is a code built from a starter code to create the back end for e-commerce (internet retail) sites. The user is a manager at an internet retail company who wants a back end for my e-commerce website that uses the latest technologies, so their company can compete with other e-commerce companies. 
 
 ### Technologies 
 
