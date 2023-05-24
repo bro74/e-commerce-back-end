@@ -11,7 +11,7 @@ This is a code built from a starter code to create the back end for e-commerce (
 
 
 #### Usage 
-[Walk-through tutorial](https://watch.screencastify.com/v/tWDyZpUKtSPOlbqRlRcm)
+[Walk-through tutorial]()
 
 ##### Installation 
 1. Navigate to the repository
